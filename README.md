@@ -10,6 +10,7 @@ By leveraging smart contracts, this system eliminates intermediaries and central
 
 *Contract Address:*  
 0x6963fc95b23b3afefce5c2f374fc49371c952684
+![Screenshot 2024-12-21 15 06 04](https://github.com/user-attachments/assets/fa7d98e5-5011-4f52-8399-bea4449c6151)
 
 *Key Objectives:*
 - *Decentralization*: Empower students and tutors to interact without intermediaries, creating a peer-to-peer ecosystem.
